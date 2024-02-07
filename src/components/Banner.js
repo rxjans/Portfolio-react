@@ -48,7 +48,7 @@ const Banner = () => {
             viewport={{once: false, amount: 0.7}} 
             className='mb-8 max-w-lg mx-auto lg:mx-0'>A Web Developer with entry-level experience specializing in user interface design, API development, data
 security, and continuous improvement. Adept at identifying opportunities to enhance the user experience and
-develop new features to improve web application functionality.
+develop new features to improve web application functionality
             </motion.p>
             <motion.div 
             variants={fadeIn('left', 2.5)}
@@ -61,7 +61,7 @@ develop new features to improve web application functionality.
                 window.location.href='#contact';
                 }} 
                 className='btn btn-lg'>Contact Me</button>
-              <a href='#' className='text-gradient btn-link'>My Portfolio</a>
+              <a href='home' className='text-gradient btn-link'>My Portfolio</a>
             </motion.div>
           
             <motion.div 
