@@ -23,13 +23,19 @@ Install the gh-pages package by running npm install gh-pages.
 **Add the following scripts to your package.json file:**
 
 json
+
 Copy code
+
 "scripts": {
+
   "predeploy": "npm run build",
+  
   "deploy": "gh-pages -d build"
+  
 }
-**Deploy your app by running npm run deploy.
-**
+
+**Deploy your app by running npm run deploy**
+
 Your React app should now be deployed to GitHub Pages at the specified homepage URL.
 
 **Getting Started**
