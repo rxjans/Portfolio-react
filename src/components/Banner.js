@@ -46,8 +46,9 @@ const Banner = () => {
             initial='hidden'
             whileInView={'show'}
             viewport={{once: false, amount: 0.7}} 
-            className='mb-8 max-w-lg mx-auto lg:mx-0'>Lorem Ipsum asjdn  asd juasdna aiu asu unas duasdu 
-            nasudn saudn 
+            className='mb-8 max-w-lg mx-auto lg:mx-0'>A Web Developer with entry-level experience specializing in user interface design, API development, data
+security, and continuous improvement. Adept at identifying opportunities to enhance the user experience and
+develop new features to improve web application functionality.
             </motion.p>
             <motion.div 
             variants={fadeIn('left', 2.5)}
