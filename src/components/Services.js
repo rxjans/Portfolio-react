@@ -126,7 +126,7 @@ const Services = () => {
        className='hidden lg:flex items-center justify-center gap-x-8 mt-8'>
       <button onClick={(e)=>{
                 e.preventDefault();
-                window.location.href='https://www.linkedin.com/in/rajan-sharma-418364242/overlay/1635542966012/single-media-viewer/?profileId=ACoAADw1h1QBM7HGrnA3-gcKqsUkY_HLkT3UW7s';
+                window.location.href='https://www.linkedin.com/in/rajan-sharma-418364242/overlay/1706606139814/single-media-viewer/?profileId=ACoAADw1h1QBM7HGrnA3-gcKqsUkY_HLkT3UW7s';
                 }} 
                 className='btn btn-sm'>Hire Me</button>
       </motion.div>
