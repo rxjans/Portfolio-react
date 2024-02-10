@@ -61,7 +61,10 @@ develop new features to improve web application functionality
                 window.location.href='#contact';
                 }} 
                 className='btn btn-lg'>Contact Me</button>
-              <a href='home' className='text-gradient btn-link'>My Portfolio</a>
+              <a href='#' onClick={(e)=>{
+                e.preventDefault();
+                window.location.href='#home';
+              }} className='text-gradient btn-link'>My Portfolio</a>
             </motion.div>
           
             <motion.div 
