@@ -54,13 +54,6 @@ const Services = () => {
                 <article className='flex '>
                   <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
                   <div>
-                    <h4 className='font-bold'>Bootstrap</h4>
-                    <small className='text-gray-300 font-semibold'>Intermediate</small>
-                  </div>
-                </article>
-                <article className='flex '>
-                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
-                  <div>
                     <h4 className='font-bold'>Tailwind</h4>
                     <small className='text-gray-300 font-semibold'>Experienced</small>
                   </div>
@@ -110,13 +103,6 @@ const Services = () => {
                   <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
                   <div> 
                     <h4 className='font-bold'>MySql</h4>
-                    <small className='text-gray-300 font-semibold'>Intermediate</small>
-                  </div>
-                </article>
-                <article className='flex '>
-                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
-                  <div>
-                    <h4 className='font-bold'>JavaScript</h4>
                     <small className='text-gray-300 font-semibold'>Intermediate</small>
                   </div>
                 </article>
