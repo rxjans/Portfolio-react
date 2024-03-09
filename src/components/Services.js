@@ -41,7 +41,7 @@ const Services = () => {
                   <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2'  />
                   <div>
                     <h4 className='font-bold'>CSS</h4>
-                    <small className='text-gray-300 font-semibold'>Intermediate</small>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
                   </div>
                 </article>
                 <article className='flex '>
@@ -69,7 +69,14 @@ const Services = () => {
                   <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
                   <div>
                     <h4 className='font-bold'>React</h4>
-                    <small className='text-gray-300 font-semibold'>Intermediate</small>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
+                  </div>
+                </article>
+                <article className='flex '>
+                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
+                  <div>
+                    <h4 className='font-bold'>Redux Toolkit</h4>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
                   </div>
                 </article>
               </div>
@@ -96,7 +103,7 @@ const Services = () => {
                   <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
                   <div>
                     <h4 className='font-bold'>MongoDB</h4>
-                    <small className='text-gray-300 font-semibold'>Intermediate</small>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
                   </div>
                 </article>
                 <article className='flex '>
@@ -111,6 +118,27 @@ const Services = () => {
                   <div>
                     <h4 className='font-bold'>JavaScript</h4>
                     <small className='text-gray-300 font-semibold'>Intermediate</small>
+                  </div>
+                </article>
+                <article className='flex '>
+                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
+                  <div>
+                    <h4 className='font-bold'>ExpressJs</h4>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
+                  </div>
+                </article>
+                <article className='flex '>
+                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
+                  <div>
+                    <h4 className='font-bold'>Postman</h4>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
+                  </div>
+                </article>
+                <article className='flex '>
+                  <BsPatchCheckFill className='min-w-[18px] text-blue-400 mt-2 mr-2' />
+                  <div>
+                    <h4 className='font-bold'>Insomnia</h4>
+                    <small className='text-gray-300 font-semibold'>Experienced</small>
                   </div>
                 </article>
               </div>
