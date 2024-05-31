@@ -20,10 +20,12 @@ Once your React app is ready, you can deploy it to various hosting platforms suc
 * Add the following scripts to your package.json file:
 
 ## json Copy code
+```
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
+```
 Deploy your app by running npm run deploy.
 
 Your React app should now be deployed to GitHub Pages at the specified homepage URL.
