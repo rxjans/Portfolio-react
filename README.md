@@ -19,7 +19,7 @@ Once your React app is ready, you can deploy it to various hosting platforms suc
 
 * Add the following scripts to your package.json file:
 
-## json Copy code
+## script code for deployment
 ```
 "scripts": {
   "predeploy": "npm run build",
