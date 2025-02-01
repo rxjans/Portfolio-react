@@ -87,7 +87,7 @@ const About = () => {
       </div>
     </div>  
 
-    {/* for medium screen sizes */}
+    {/* for medium screen size */}
     <div className='container mx-auto md:hidden'> 
       <div className='flex flex-col gap-y-8 lg:flex-row lg:items-center lg:gap-x-20 lg:gap-y-0 h-screen'>
       {/* img */}
