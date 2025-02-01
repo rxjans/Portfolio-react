@@ -20,7 +20,7 @@ const About = () => {
         variants={fadeIn('right', 0.1)}
         initial='hidden'
         whileInView={'show'}
-        viewport={{once: false, amount: 0.3}}
+        viewport={{once: true, amount: 0.3}}
         className='hidden lg:flex flex-1 max-w-[320px] lg:max-w-[640px] bg-about bg-contain bg-no-repeat h-[640px] mix-blend-color-dodge opacity-60 bg-top'>
         </motion.div>
       {/* text */}
@@ -28,7 +28,7 @@ const About = () => {
         variants={fadeIn('left', 0.1)}
         initial='hidden'
         whileInView={'show'}
-        viewport={{once: false, amount: 0.3}}
+        viewport={{once: true, amount: 0.3}}
         className='flex-1'>
           <h2 className='h2 text-gradient'>About Me.</h2>
           <h3 className='h3 mb-4 text-[22px] leading-[1.2]'>I am a Full Stack Web Developer with entry-level experience specializing in user interface design, API development, data

@@ -15,7 +15,7 @@ const Services = () => {
           variants={fadeIn('down', 0.1)}
           initial='hidden'
           whileInView={'show'}
-          viewport={{ once: false, amount: 0.7 }}
+          viewport={{ once: true, amount: 0.7 }}
           className='text-center md:mt-8 xl:mt-36'>
           <h3 className='h2 lg:text-[16px] text-[12px] mb-0 text-zinc-400'>What Skills I have</h3>
           <h2 className='h3 lg:text-[36px] text-[24px] mb-2 text-gradient font-tertiary xl:mb-20 lg:mb-4'>My Experience</h2>
@@ -25,7 +25,7 @@ const Services = () => {
               variants={fadeIn('right', 0.1)}
               initial='hidden'
               whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
+              viewport={{ once: true, amount: 0.7 }}
               className='w-full xl:w-[560px] lg:min-w-[320px] mb-8 xl:mb-0'>
               <div className='border-gradient border-b py-10 px-20 rounded-2xl bg-gradient-to-r from-indigo-500/50 from-10% to-fuchsia-500/50 hover:bg-site'>
                 <h3 className='text-gradient border-b rounded-2xl mb-6 '>Frontend Development</h3>
@@ -81,7 +81,7 @@ const Services = () => {
               variants={fadeIn('left', 0.1)}
               initial='hidden'
               whileInView={'show'}
-              viewport={{ once: false, amount: 0.7 }}
+              viewport={{ once: true, amount: 0.7 }}
               className='w-full xl:w-[560px] lg:min-w-[320px]'>
               <div className='border-gradient border-b py-10 px-20 rounded-2xl bg-gradient-to-r from-indigo-500/50 from-10% to-fuchsia-500/50 hover:bg-site'>
                 <h3 className='text-gradient border-b rounded-2xl mb-6 '>Backend Development</h3>
@@ -136,7 +136,7 @@ const Services = () => {
           variants={fadeIn('up', 0.3)}
           initial='hidden'
           whileInView={'show'}
-          viewport={{ once: false, amount: 0.7 }}
+          viewport={{ once: true, amount: 0.7 }}
           className='flex items-center justify-center gap-x-8 mt-8'>
           <button
             onClick={(e) => {
