@@ -1,6 +1,6 @@
 
 # Portfolio Website using React.js
-Welcome to my portfolio website created with React.js! This project showcases my skills, projects, and experiences in a dynamic and interactive manner.
+Welcome to my portfolio website (ReactJs)! This project showcases my skills, projects, and experiences in a dynamic and interactive manner.
 
 ## About React.js
 React.js is a popular JavaScript library for building user interfaces, developed by Facebook. It allows developers to create reusable UI components, making it easier to build complex UIs for web applications. React utilizes a virtual DOM to efficiently update the UI in response to changes, resulting in faster rendering and improved performance.
