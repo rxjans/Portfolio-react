@@ -79,7 +79,7 @@ const About = () => {
                 window.location.href='https://drive.google.com/file/d/1C_WAancJWqJRACtpEnv1rW6pdmR2bIcL/view?usp=drive_link';
                 }} 
                 className='btn btn-lg'>Resume</button>
-            <a href='home' className='text-gradient btn-link'>
+            <a href='#home' className='text-gradient btn-link'>
               Home Page
             </a>
           </div>
@@ -154,7 +154,7 @@ const About = () => {
                 window.location.href='https://drive.google.com/file/d/1C_WAancJWqJRACtpEnv1rW6pdmR2bIcL/view?usp=drive_link';
                 }} 
                 className='btn btn-lg'>Resume</button>
-            <a href='home' className='text-gradient btn-link'>
+            <a href='#home' className='text-gradient btn-link'>
               Home Page
             </a>
           </div>
