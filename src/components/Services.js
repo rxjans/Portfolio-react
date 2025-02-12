@@ -142,7 +142,7 @@ const Services = () => {
             onClick={(e) => {
               e.preventDefault();
               window.location.href =
-                'https://www.linkedin.com/in/rajan-sharma-418364242/';
+                'https://drive.google.com/file/d/1C_WAancJWqJRACtpEnv1rW6pdmR2bIcL/view?usp=drive_link';
                 
             }}
             className='btn btn-sm'>
@@ -304,7 +304,7 @@ const Services = () => {
             onClick={(e) => {
               e.preventDefault();
               window.location.href =
-                'https://www.linkedin.com/in/rajan-sharma-418364242/';
+                'https://drive.google.com/file/d/1C_WAancJWqJRACtpEnv1rW6pdmR2bIcL/view?usp=drive_link';
             }}
             className='btn btn-sm'>
             Hire Me
